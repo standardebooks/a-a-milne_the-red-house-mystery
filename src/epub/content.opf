@@ -36,12 +36,15 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONG_DESCRIPTION </meta>
+		<dc:description id="description">An amateur sleuth visting a country house solves the mystery who shot man in the locked room of a country-house.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;&lt;i&gt;The Red House Mystery&lt;/i&gt; is a detective novel by &lt;abbr&gt;A. A.&lt;/abbr&gt; Milne, better known for his children’s writing who wrote it for his father in 1922. It is his only mystery novel and was very popular at the time.&lt;/p&gt;
+			&lt;p&gt;Mark Ablett is the amiable host of a country-house party to which his estranged brother, Robert, arrives from Australia. Robert is the black sheep of the family who is said to have borrowed money in the past and had written to warn of his visit. One afternoon a gunshot is heard and Robert is found shot in the head while locked in the library while his brother Mark has vanished. Tony Gillingham, who has arrived to visit one of the guests at the house-party, Bill Beverley, takes it upon himself to investigate the death. Together Tony and Bill form a Holmes and Watson partnership and seek to solve the mystery which the bumbling police force seem to condone.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Red House Mystery&lt;/i&gt; has divided opinion on its literary merit but it remains an entertaining and intriguing read nonetheless.&lt;/p&gt; 
+		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1872</dc:source>
 		<dc:source>https://archive.org/details/redhousemystery00milngoog/</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Red_House_Mystery</meta>
