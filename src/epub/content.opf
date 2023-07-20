@@ -35,6 +35,8 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Haycraft Queen Cornerstones</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">An amateur sleuth visiting a country house solves the mystery of who shot the man in the locked room.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Red House Mystery&lt;/i&gt; is a detective novel by &lt;a href="https://standardebooks.org/ebooks/a-a-milne"&gt;&lt;abbr&gt;A. A.&lt;/abbr&gt; Milne&lt;/a&gt;, better known for his children’s writing, who wrote this book for his father in 1922. It is his only mystery novel and was very popular at the time.&lt;/p&gt;
