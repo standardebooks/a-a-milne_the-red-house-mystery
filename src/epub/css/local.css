@@ -31,3 +31,7 @@ footer{
 #chapter-21 > [epub|type~="z3998:letter"]{
 	margin: 0;
 }
+
+[epub|type~="dedication"] p{
+	text-indent: 0;
+}
