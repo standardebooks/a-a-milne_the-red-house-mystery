@@ -47,7 +47,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1872</dc:source>
 		<dc:source>https://archive.org/details/redhousemystery00milngoog</dc:source>
-		<meta property="se:word-count">62216</meta>
+		<meta property="se:word-count">60625</meta>
 		<meta property="se:reading-ease.flesch">84.98</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Red_House_Mystery</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/a-a-milne_the-red-house-mystery</meta>
