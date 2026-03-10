@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="chapter-20.xhtml">
+		<ignore code="t-008">
+			<line>86</line>
+			<reason>Repeated punctuation is correct in this context.</reason>
+		</ignore>
+	</file>
 	<file path="colophon.xhtml">
 		<ignore code="t-064">
+			<line>28</line>
 			<reason>Matched text is correctly titlecased.</reason>
 		</ignore>
 	</file>
