@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/a-a-milne/the-red-house-mystery</dc:identifier>
 		<dc:date>2019-11-04T23:36:41Z</dc:date>
@@ -39,12 +39,12 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta id="collection-1" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">An amateur sleuth visiting a country house solves the mystery of who shot the man in the locked room.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>An amateur sleuth visiting a country house solves the mystery of who shot the man in the locked room.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Red House Mystery&lt;/i&gt; is a detective novel by &lt;a href="https://standardebooks.org/ebooks/a-a-milne"&gt;&lt;abbr&gt;A. A.&lt;/abbr&gt; Milne&lt;/a&gt;, better known for his children’s writing, who wrote this book for his father in 1922. It is his only mystery novel and was very popular at the time.&lt;/p&gt;
 			&lt;p&gt;Mark Ablett is the amiable host of a country-house party to which his estranged brother, Robert, arrives from Australia. Robert is the black sheep of the family who is said to have borrowed money in the past and had written to warn of his visit. One afternoon a gunshot is heard, and Robert is found shot in the head while locked in the library, while his brother Mark has vanished. Tony Gillingham, who has arrived to visit Bill Beverley, one of the guests at the house-party, takes it upon himself to investigate the death. Together Tony and Bill form a Holmes and Watson partnership and seek to solve the mystery in an unorthodox manner, taking over from a bumbling police force.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Red House Mystery&lt;/i&gt; has divided opinion on its literary merit but it remains an entertaining and intriguing read nonetheless.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1872</dc:source>
 		<dc:source>https://archive.org/details/redhousemystery00milngoog</dc:source>
